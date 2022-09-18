@@ -1,0 +1,35 @@
+body {
+    font-family:sans-serif;
+}
+p{
+     color: rgb(255, 33, 4);
+     margin-bottom: 30px;
+     text-align: center;
+}
+h3{
+    color: black;
+    font-weight: 500;
+    margin-bottom: 30px;
+    text-align: center;
+}
+button{
+color: white;
+    background-color: rgb(255, 33, 4);
+    border:1px; 
+    width:81%;
+    margin-top: 50px;
+    padding: 7px;
+    border-radius: 4px;
+    
+}
+input{
+width: 80%;
+
+}
+
+a{
+    text-decoration: none;
+}
+.email{
+    margin-bottom: 50px;
+}

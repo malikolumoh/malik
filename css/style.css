@@ -1,35 +1,54 @@
 body {
-    font-family:sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
 }
 p{
      color: rgb(255, 33, 4);
-     margin-bottom: 30px;
+     margin-bottom: 80px;
      text-align: center;
 }
 h3{
     color: black;
     font-weight: 500;
-    margin-bottom: 30px;
+    font-size: 30px;
+    margin-bottom: 40px;
     text-align: center;
 }
-button{
-color: white;
-    background-color: rgb(255, 33, 4);
-    border:1px; 
-    width:81%;
-    margin-top: 50px;
-    padding: 7px;
-    border-radius: 4px;
-    
-}
 input{
-width: 80%;
-
+    width: 70%; 
+    padding-bottom: 15px; 
+    padding-top: 15px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: rgb(185, 182, 178);
 }
 
-a{
-    text-decoration: none;
-}
 .email{
     margin-bottom: 50px;
+}
+.forgot {
+margin-left: 730px;
+}
+#password{
+    margin-left: 200px;
+    margin-top: 3px;
+}
+#email{
+    margin-left: 200px;
+    margin-top: 3px;
+}
+label{
+    margin-left: 200px;
+}
+#sign{
+    margin-left: 180px;
+    margin-top: 100px;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    border: none; 
+}
+a{
+    color: rgb(2, 79, 179);
+    text-decoration: none;
 }
